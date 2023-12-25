@@ -1,0 +1,70 @@
+Nombre: bombon
+Descripcion: chocolate dulce
+Precio: 15.00
+Peso: 5.00
+Calorias: 24
+Cantidad: 10
+
+Nombre: refresco 
+Descripcion: refrescante
+Precio: 25.00
+Peso: 16.00
+Calorias: 120
+Cantidad: 10
+
+Nombre: galleta oreo
+Descripcion: chocolate con crema
+Precio: 15.00
+Peso: 9.00
+Calorias: 75
+Cantidad: 8
+
+Nombre: mentas
+Descripcion: dulce y salado
+Precio: 2.00
+Peso: 0.40
+Calorias: 2
+Cantidad: 10
+
+Nombre: jugos
+Descripcion: de frulas naturales
+Precio: 30.00
+Peso: 21.00
+Calorias: 13
+Cantidad: 10
+
+Nombre: botella de agua
+Descripcion: libre de impuresas
+Precio: 20.00
+Peso: 18.00
+Calorias: 0
+Cantidad: 10
+
+Nombre: chocolate mas mas
+Descripcion: cocholate con mani y pasas
+Precio: 30.00
+Peso: 16.00
+Calorias: 55
+Cantidad: 10
+
+Nombre: malta india
+Descripcion: echo de malta natural
+Precio: 45.00
+Peso: 45.00
+Calorias: 78
+Cantidad: 10
+
+Nombre: galleta de abena
+Descripcion: abena y fresas
+Precio: 40.00
+Peso: 28.00
+Calorias: 12
+Cantidad: 10
+
+Nombre: taqueritos
+Descripcion: picante con limon
+Precio: 35.00
+Peso: 26.00
+Calorias: 80
+Cantidad: 10
+
